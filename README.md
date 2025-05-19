@@ -1,26 +1,25 @@
-Hi there, I'm Vineeth! 
+# Hi there, I'm Vineeth
 
-About Me
-- I'm a student passionate about software development and AI.
+## About Me
+I’m a Computer Science student with a strong interest in software development and artificial intelligence. I enjoy building scalable applications and continuously exploring new technologies.
 
 - Currently working with React.js, Next.js, and exploring Spring Boot.
+- Gaining experience in machine learning and cloud computing.
+- Developing projects focused on traffic management systems and financial market prediction.
+- Open to collaboration, learning, and contributing to meaningful projects.
 
-- Learning more about machine learning and cloud computing.
+## Skills
 
-- Working on projects related to traffic management systems and financial market prediction.
+**Languages**  
+C++, Java, JavaScript
 
-- Actively seeking opportunities to learn and collaborate on interesting projects.
+**Frameworks & Libraries**  
+React.js, Next.js
 
-Skills
+**Databases**  
+MySQL, Prisma ORM
 
-Languages: C++, Java, JavaScript
+## Get in Touch
 
-Frameworks: React.js, Next.js
-
-Database: MySQL, Prisma ORM
-
-Get in Touch
-
-LinkedIn: www.linkedin.com/in/vineethgm
-
-Email: vineeth.gmhub@gmail.com
+**LinkedIn:** [linkedin.com/in/vineethgm](https://www.linkedin.com/in/vineethgm)  
+**Email:** vineeth.gmhub@gmail.com
