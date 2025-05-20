@@ -4,8 +4,7 @@
 I’m a Computer Science student with a strong interest in software development and artificial intelligence. I enjoy building scalable applications and continuously exploring new technologies.
 
 - Currently working with React.js, Next.js, and exploring Spring Boot.
-- Gaining experience in machine learning and cloud computing.
-- Developing projects focused on traffic management systems and financial market prediction.
+- Good with working on Java & Javascript.
 - Open to collaboration, learning, and contributing to meaningful projects.
 
 ## Skills
